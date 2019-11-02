@@ -1,5 +1,0 @@
-print "Hello world;"
-print "Hello mu*ka;"
-print "Hello Nuska;"
-print "Hello;"
-print "hi;"
